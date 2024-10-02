@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sandbox", "Sandbox", "{DD5C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTelemetry", "Sandbox\MultiTelemetry\MultiTelemetry.csproj", "{C3FB5491-BB75-4350-A444-1F065289C962}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BfWatchWin", "Sandbox\BfWatchWin\BfWatchWin.csproj", "{163E63B4-13F2-42DB-A5C6-CB09BBF50667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,12 +32,17 @@ Global
 		{C3FB5491-BB75-4350-A444-1F065289C962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3FB5491-BB75-4350-A444-1F065289C962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3FB5491-BB75-4350-A444-1F065289C962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163E63B4-13F2-42DB-A5C6-CB09BBF50667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163E63B4-13F2-42DB-A5C6-CB09BBF50667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163E63B4-13F2-42DB-A5C6-CB09BBF50667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163E63B4-13F2-42DB-A5C6-CB09BBF50667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C3FB5491-BB75-4350-A444-1F065289C962} = {DD5CA711-0648-4802-B4BC-F80D29008308}
+		{163E63B4-13F2-42DB-A5C6-CB09BBF50667} = {DD5CA711-0648-4802-B4BC-F80D29008308}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC8DE038-E474-4F4F-AED5-740793B49CC9}
